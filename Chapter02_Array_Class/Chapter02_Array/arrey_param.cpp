@@ -15,5 +15,5 @@ void main()
 	var = 0;
 	list[0] = 0;
 	sub(var, list);
-	printf("var=%d, list[]=%")
+	printf("var=%d, list[]=%");
 }
