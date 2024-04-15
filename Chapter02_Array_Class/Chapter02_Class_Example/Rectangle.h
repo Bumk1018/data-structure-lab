@@ -2,9 +2,9 @@
 #include <iostream>
 
 class Rectangle {
-
-
-
+private:
+	double width;
+	double height;
 
 
 public:

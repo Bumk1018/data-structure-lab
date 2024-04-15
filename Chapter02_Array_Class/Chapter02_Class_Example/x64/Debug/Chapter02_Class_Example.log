@@ -1,76 +1,32 @@
 ﻿  main.cpp
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\Rectangle.h(12,3): error C2065: 'width': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\Car.h(26,27): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'Car *'입니다.
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
   
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\Rectangle.h(13,3): error C2065: 'height': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\Car.h(26,27): warning C4313: 'printf': 서식 문자열의 '%x'이(가) Car *' 형식의 인수 1과(와) 충돌합니다.
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
   
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\Rectangle.h(16,10): error C2065: 'width': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\Music.h(65,24): error C2059: 구문 오류: '>'
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
   
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\Rectangle.h(16,18): error C2065: 'height': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\Music.h(68,17): error C2065: 'result': 선언되지 않은 식별자입니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\Music.h(71,16): error C2065: 'result': 선언되지 않은 식별자입니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\Music.h(74,3): error C2014: 전처리기 명령은 공백 아닌 문자로 시작해야 합니다.
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
   
 C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\Rectangle.h(17,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
   
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\Rectangle.h(19,15): error C2065: 'width': 선언되지 않은 식별자입니다.
-  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
-  
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\Rectangle.h(19,23): error C2065: 'height': 선언되지 않은 식별자입니다.
-  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
-  
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\Rectangle.h(22,11): error C2065: 'width': 선언되지 않은 식별자입니다.
-  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
-  
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\Rectangle.h(22,19): error C2065: 'height': 선언되지 않은 식별자입니다.
-  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
-  
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(24,11): error C2143: 구문 오류: ';'이(가) '<<' 앞에 없습니다.
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(24,11): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(24,6): error C2371: 'std::cout': 재정의. 기본 형식이 다릅니다.
-  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iostream(39,75):
-  'std::cout' 선언을 참조하십시오.
-  
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(24,11): error C2059: 구문 오류: '<<'
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(24,37): error C2039: 'end1': 'std'의 멤버가 아닙니다.
-  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iostream(18,1):
-  'std' 선언을 참조하십시오.
-  
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(25,11): error C2143: 구문 오류: ';'이(가) '<<' 앞에 없습니다.
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(25,11): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(25,6): error C2371: 'std::cout': 재정의. 기본 형식이 다릅니다.
-  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iostream(39,75):
-  'std::cout' 선언을 참조하십시오.
-  
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(25,11): error C2059: 구문 오류: '<<'
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(25,31): error C2039: 'end1': 'std'의 멤버가 아닙니다.
-  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iostream(18,1):
-  'std' 선언을 참조하십시오.
-  
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(26,11): error C2143: 구문 오류: ';'이(가) '<<' 앞에 없습니다.
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(26,11): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(26,6): error C2371: 'std::cout': 재정의. 기본 형식이 다릅니다.
-  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iostream(39,75):
-  'std::cout' 선언을 참조하십시오.
-  
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(26,11): error C2059: 구문 오류: '<<'
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(26,49): error C2039: 'end1': 'std'의 멤버가 아닙니다.
-  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iostream(18,1):
-  'std' 선언을 참조하십시오.
-  
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(27,11): error C2143: 구문 오류: ';'이(가) '<<' 앞에 없습니다.
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(27,11): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(27,6): error C2371: 'std::cout': 재정의. 기본 형식이 다릅니다.
-  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iostream(39,75):
-  'std::cout' 선언을 참조하십시오.
-  
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(27,11): error C2059: 구문 오류: '<<'
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(27,36): error C2039: 'boolaipha': 'std'의 멤버가 아닙니다.
-  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iostream(18,1):
-  'std' 선언을 참조하십시오.
-  
-C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(27,68): error C2039: 'end1': 'std'의 멤버가 아닙니다.
-  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iostream(18,1):
-  'std' 선언을 참조하십시오.
-  
+C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(34,2): error C2065: 'SmatrHome': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(34,12): error C2146: 구문 오류: ';'이(가) 'myHome' 식별자 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(34,12): error C3861: 'myHome': 식별자를 찾을 수 없습니다.
+C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(35,2): error C2065: 'myHome': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(61,17): error C2059: 구문 오류: '>'
+C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(62,6): error C2065: 'artistResult': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(63,23): error C2065: 'artistResult': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(64,23): error C2065: 'artistResult': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(65,12): error C2065: 'artistResult': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data-structure-lab\Chapter02_Array_Class\Chapter02_Class_Example\main.cpp(7,12): error C1075: '{': 일치하는 토큰을 찾을 수 없습니다.
