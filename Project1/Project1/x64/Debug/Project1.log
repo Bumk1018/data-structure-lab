@@ -1,3 +1,13 @@
-﻿  lec10.c
-C:\Users\USER\Documents\data-structure-lab\Project1\Project1\lec10.c(20,9): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
-  Project1.vcxproj -> C:\Users\USER\Documents\data-structure-lab\Project1\x64\Debug\Project1.exe
+﻿  12_1.c
+C:\Users\USER\Documents\data-structure-lab\Project1\Project1\12_1.c(28,2): warning C4013: 'printList'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\Documents\data-structure-lab\Project1\Project1\12_1.c(31,2): warning C4013: 'insertNode'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\Documents\data-structure-lab\Project1\Project1\12_1.c(35,6): warning C4013: 'searchNode'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\Documents\data-structure-lab\Project1\Project1\12_1.c(35,4): warning C4047: '=': 'listNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\USER\Documents\data-structure-lab\Project1\Project1\12_1.c(39,4): warning C4047: '=': 'listNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\USER\Documents\data-structure-lab\Project1\Project1\12_1.c(43,4): warning C4047: '=': 'listNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\USER\Documents\data-structure-lab\Project1\Project1\12_1.c(43,29): warning C4013: 'deleteNode'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+12_1.obj : error LNK2019: printListmain 함수에서 참조되는 확인할 수 없는 외부 기호
+12_1.obj : error LNK2019: insertNodemain 함수에서 참조되는 확인할 수 없는 외부 기호
+12_1.obj : error LNK2019: searchNodemain 함수에서 참조되는 확인할 수 없는 외부 기호
+12_1.obj : error LNK2019: deleteNodemain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\USER\Documents\data-structure-lab\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 4개의 확인할 수 없는 외부 참조입니다.
